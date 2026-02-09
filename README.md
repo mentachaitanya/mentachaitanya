@@ -5,20 +5,21 @@
 ![Followers](https://img.shields.io/github/followers/mentachaitanya?label=Followers&style=flat)
 
 ## 🚀 Associate Software Engineer 
-**5 Months Experience | Python & Django Specialist**
+**Python & Django Specialist | 5 Months Industry Experience**
 
 ---
 
 ### 🔭 NOW
-* [cite_start]**Currently at:** Quantum Works Pvt Ltd, Hyderabad[cite: 151].
+* [cite_start]**Current Role:** Junior Python Developer at Quantum Works Pvt Ltd, Hyderabad[cite: 151].
 * [cite_start]**Core Tasks:** Developing and maintaining backend services using Python and Django[cite: 152].
 * [cite_start]**Optimization:** Improving application performance through debugging and refactoring[cite: 153].
+* [cite_start]**Focus:** Learning GenAI, LLM Concepts, and RAG basics[cite: 162].
 
 ---
 
 ### 💼 BIO
-* [cite_start]🎓 **Education:** B.Tech in Computer Science & Engineering (AI) from Parul University.
-* [cite_start]🛠️ **Interests:** Scalable applications, GenAI, and LLM Concepts[cite: 147, 162].
+* [cite_start]🎓 **Education:** B.Tech in Computer Science & Engineering (AI) from Parul University (2021-2025)[cite: 155, 177].
+* [cite_start]🛠️ **Interests:** Scalable applications, Software Design, and Data Structures[cite: 147, 163].
 * [cite_start]📫 **Reach me:** [venkatachaitanya513@gmail.com](mailto:venkatachaitanya513@gmail.com)[cite: 141].
 * [cite_start]🔗 **LinkedIn:** [menta-venkata-chaitanya](https://linkedin.com/in/menta-venkata-chaitanya)[cite: 143].
 
@@ -40,11 +41,15 @@
 
 ---
 
-### 📂 FEATURED PROJECTS
+### 📂 FEATURED PROJECT
 * [cite_start]**Farm Marketing Platform:** Developed a full-stack web platform for farmer-to-customer interaction using Django, Python, and MySQL[cite: 165, 166, 167].
 * [cite_start]**AI Integration:** Integrated an AI chatbot for automated customer support within the platform[cite: 168].
+* [cite_start]**Reporting:** Generated reports for monitoring system activity[cite: 169].
 
 ---
 
-### 📊 GitHub Stats
-[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentachaitanya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mentachaitanya&show_icons=true&theme=radical&hide_border=true" alt="Chaitanya's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentachaitanya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</p>
