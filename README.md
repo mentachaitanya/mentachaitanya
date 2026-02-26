@@ -10,18 +10,18 @@
 ---
 
 ### 🔭 NOW
-* [cite_start]**Currently at:** Quantum Works Pvt Ltd, Hyderabad[cite: 151].
-* [cite_start]**Core Tasks:** Developing and maintaining backend services using Python and Django[cite: 152].
-* [cite_start]**Optimization:** Improving application performance through debugging and refactoring[cite: 153].
-* [cite_start]**Focus:** Learning GenAI, LLM Concepts, and RAG basics[cite: 162].
+* **Currently at:** Quantum Works Pvt Ltd, Hyderabad.
+* **Core Tasks:** Developing and maintaining backend services using Python and Django.
+* **Optimization:** Improving application performance through debugging and refactoring.
+* **Focus:** Learning GenAI, LLM Concepts, and RAG basics.
 
 ---
 
 ### 💼 BIO
-* [cite_start]🎓 **Education:** B.Tech in Computer Science & Engineering (AI) from Parul University (2021-2025)[cite: 155, 177].
-* [cite_start]🛠️ **Interests:** Scalable applications, Software Design, and Data Structures[cite: 147, 163].
-* [cite_start]📫 **Reach me:** [venkatachaitanya513@gmail.com](mailto:venkatachaitanya513@gmail.com)[cite: 141].
-* [cite_start]🔗 **LinkedIn:** [menta-venkata-chaitanya](https://linkedin.com/in/menta-venkata-chaitanya)[cite: 143].
+* 🎓 **Education:** B.Tech in Computer Science & Engineering (AI) from Parul University (2021-2025).
+* 🛠️ **Interests:** Scalable applications, Software Design, and Data Structures.
+* 📫 **Reach me:** [venkatachaitanya513@gmail.com](mailto:venkatachaitanya513@gmail.com).
+* 🔗 **LinkedIn:** [menta-venkata-chaitanya](https://linkedin.com/in/menta-venkata-chaitanya).
 
 ---
 
@@ -42,8 +42,8 @@
 ---
 
 ### 📂 FEATURED PROJECT
-* [cite_start]**Farm Marketing Platform:** Developed a full-stack web platform for farmer-to-customer interaction using Django, Python, and MySQL[cite: 165, 166, 167].
-* [cite_start]**AI Integration:** Integrated an AI chatbot for automated customer support within the platform[cite: 168].
+* **Farm Marketing Platform:** Developed a full-stack web platform for farmer-to-customer interaction using Django, Python, and MySQL.
+* **AI Integration:** Integrated an AI chatbot for automated customer support within the platform.
 
 ---
 
